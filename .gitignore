@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Environment variables (Crucial for your JWT_SECRET)
+.env
+
+# Logs
+*.log
+server_submission.log
+server.log
+
+# IDE / System files
+.DS_Store
+.vscode/
