@@ -1,0 +1,7 @@
+Server listening at http://localhost:3000
+GET /users 200
+POST /user 201
+GET /users/2 200
+PUT /user/2 200
+DELETE /user/2 204
+GET /users/2 404
